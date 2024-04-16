@@ -6,9 +6,7 @@
   "sources": {
     "natural": {
       "type": "vector",
-      "tiles": [
-        "https://k96mz.github.io/20240416localHost/VTpractice/{z}/{x}/{y}.pbf"
-      ]
+      "tiles": ["./VTpractice/{z}/{x}/{y}.pbf"]
     }
   },
   "layers": [

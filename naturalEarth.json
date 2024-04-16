@@ -6,7 +6,7 @@
   "sources": {
     "natural": {
       "type": "vector",
-      "tiles": ["./geojson/VTpractice/{z}/{x}/{y}.pbf"]
+      "tiles": ["./VTpractice/{z}/{x}/{y}.pbf"]
     }
   },
   "layers": [
